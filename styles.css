@@ -1,0 +1,23 @@
+.dieFragen, .bildernaOchWords {
+    text-align: center;
+}
+
+.mrKrabs {
+    width: 1024px;
+    height: 512px;
+}
+
+h1, button {
+    font-family: 'Cinzel', serif;
+}
+
+h2 {
+    font-family: 'Merriweather', serif; 
+}
+
+h3 {
+    font-family: 'Italiana', serif;
+}
+body {
+    background: url("http://1.bp.blogspot.com/-PWvPt7lc6vo/TmXOMfxQZ3I/AAAAAAAAATc/raAmP5RmkQI/s1600/SpongeBobFullHDWallpapers03.jpg");
+}
